@@ -1,0 +1,17 @@
+.ImageConteiner {
+  display: block;
+  text-align: center;
+  /* background-image: url("/public/multimedia/LICHIN2.png"); */
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+h1 {
+  color: rgb(250, 79, 156);
+  font-weight: 300;
+  font-size: 2.2em;
+}
+.imagen {
+  height: 45vh;
+}
